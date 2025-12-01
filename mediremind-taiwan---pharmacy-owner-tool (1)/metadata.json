@@ -1,0 +1,5 @@
+{
+  "name": "MediRemind Taiwan - Pharmacy Owner Tool",
+  "description": "A bulk prescription management tool for Taiwan pharmacy owners. Upload CSV to automatically calculate refill windows and generate reminder emails.",
+  "requestFramePermissions": []
+}
